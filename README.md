@@ -1,12 +1,10 @@
-## Hi there 👋
-
-# Hi, I'm Seoyeon 👋
+# Hi, I'm Seoyeon 👋🤶
 
 ### 🤖 AI Engineer
 
 I'm interested in **AI, Computer Vision, Robotics, and VLA**.
 
-Currently studying Computer Science and exploring
+Currently studying Spatial Information, Computer Science and exploring
 **Multimodal AI & Embodied AI**.
 
 ---
@@ -22,10 +20,6 @@ Currently studying Computer Science and exploring
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
