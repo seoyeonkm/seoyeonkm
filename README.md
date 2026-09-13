@@ -9,6 +9,14 @@ Currently studying Spatial Information, Computer Science and exploring
 
 ---
 
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoyon.kim2004@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/GeoAI-941a53fdab4a820e80eb81df846586eb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoyeon-kim-689676426/)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
